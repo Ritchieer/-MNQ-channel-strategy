@@ -73,7 +73,7 @@ Below is a real example:
 In a bearish channel, shorts are taken at the upper boundary and profits are taken at the lower boundary.  
 We avoid trading the “sliding middle area” with low edge.
 
-![MNQ Channel Example](images/mnq_channel_example.png)
+![MNQ Channel Example](images/mnq_channel_example.jpg)
 
 ---
 
