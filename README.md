@@ -1,4 +1,4 @@
-# -MNQ-channel-strategy
+# MNQ-channel-strategy
 # MNQ 5m Trend & Channel Strategy (60MA / 20MA)
 
 Author: CHIH.H
